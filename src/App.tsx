@@ -1,6 +1,5 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+
 
 export const App = () => {
   const [count, setCount] = useState(0);
@@ -23,7 +22,7 @@ export const App = () => {
           </a>
         </div>
 
-        <h2 className="text-center font-bold text-xl mb-6"> corvetto casa nostra </h2>
+        <h2 className="text-center font-bold text-xl mb-6"> corvetto casa egitto </h2>
 
         <div className="flex flex-col items-center space-y-4">
           <button
